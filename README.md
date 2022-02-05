@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there, I'm Touhid :wave:. 
+
+I am a Senior Cloud Infrastructure Engineer in Ministry of Justice UK. I specialise in AWS cloud platform. I am a full time DevOps practitioner and have experience in Ruby, Ruby on Rails, Terraform, Docker and Kubernetes. I love working on side projects using Ruby in my free times.  
+
+- 🔭 I’m currently working on [slack bot app in ruby](https://github.com/ministryofjustice/cloud-operations-slack-bot)
 
 <!--
 **mTouhid/mTouhid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -1,4 +1,4 @@
-[![wakatime](https://wakatime.com/badge/user/a7630d97-51b7-432d-b3ba-04660fd50338.svg)](https://wakatime.com/@a7630d97-51b7-432d-b3ba-04660fd50338)  
+[![wakatime](https://wakatime.com/badge/user/a7630d97-51b7-432d-b3ba-04660fd50338.svg?style=for-the-badge)](https://wakatime.com/@mTouhid)  
 
 ### Hi there, I'm Touhid :wave:. 
 
@@ -13,7 +13,11 @@ I am a Senior Cloud Infrastructure Engineer in Ministry of Justice UK. I special
 
 ### And here are the top most used languages:  
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mTouhid&count_private=true&hide_title=true&langs_count=10&card_width=495&theme=merko&hide=ruby,javascript,css,scss,html)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mTouhid&count_private=true&hide_title=true&langs_count=10&card_width=495&theme=merko&hide=css,scss)  
+
+### My wakatime stats:  
+
+![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=mTouhid&hide_title=true&theme=merko)
 
 <!--
 **mTouhid/mTouhid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -7,11 +7,11 @@ I am a Senior Cloud Infrastructure Engineer in Ministry of Justice UK. I special
 
 ### Here are my 2020 stats:  
 
-![Touhid's GitHub stats](https://github-readme-stats.vercel.app/api?username=mTouhid&count_private=true&show_icons=true&hide_title=true). 
+![Touhid's GitHub stats](https://github-readme-stats.vercel.app/api?username=mTouhid&count_private=true&show_icons=true&hide_title=true&hide=issues&theme=merko). 
 
 ### And here are the top most used languages:  
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mTouhid&count_private=true&hide_title=true&card_width=495). 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mTouhid&count_private=true&hide_title=true&langs_count=3&card_width=495&theme=merko). 
 
 <!--
 **mTouhid/mTouhid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

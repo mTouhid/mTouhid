@@ -1,6 +1,6 @@
-[![wakatime](https://wakatime.com/badge/user/a7630d97-51b7-432d-b3ba-04660fd50338.svg?style=for-the-badge)](https://wakatime.com/@mTouhid)  
+### Hi there, I'm Touhid :wave:  
 
-### Hi there, I'm Touhid :wave:. 
+[![wakatime](https://wakatime.com/badge/user/a7630d97-51b7-432d-b3ba-04660fd50338.svg?style=for-the-badge)](https://wakatime.com/@mTouhid)  
 
 I am a Senior Cloud Infrastructure Engineer in Ministry of Justice UK. I specialise in AWS cloud platform. I am a full time DevOps practitioner and have experience in Ruby, Ruby on Rails, Terraform, Docker and Kubernetes. I love working on side projects using Ruby in my free times.  
 
